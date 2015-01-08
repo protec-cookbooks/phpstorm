@@ -10,7 +10,7 @@ version          "0.0.1"
     supports os
 end
 
-%w{ oracle-java::java6 }.each do |cb|
+%w{ oracle-java }.each do |cb|
     depends cb
 end
 
