@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=PhpStorm
+Comment=PhpStorm IDE
+Icon=/opt/phpstorm/PhpStorm/bin/webide.png
+Exec=/opt/phpstorm/PhpStorm/bin/phpstorm.sh
+Terminal=false
+Categories=Development;IDE;PHP;
